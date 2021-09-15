@@ -1,5 +1,9 @@
 # React Evaluations 
 
+start a demo with 
+```bash
+npx create-react-app ts-react-bootstrap --template typescript
+```
 Evaluating different react patterns.
 - all demos use typescripts and smoke tests
 - [x] typescript and smoke tests
@@ -11,7 +15,7 @@ Evaluating different react patterns.
     - very tedious to use all the components
     - noticed that Navbar.Brand didn't behave the way `.navbar-brand` in bootstrap behaved, with regards to text color
     - have to navigate between 2 docs: bootstrap and react-boostrap
-  - vanilla-bootstrap
+  - [ ] vanilla-bootstrap
 - [ ] tailwind 
 - [ ] auth with hooks 
 - [ ] http calls 
