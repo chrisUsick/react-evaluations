@@ -10,12 +10,15 @@ Evaluating different react patterns.
   - repo: ts-smoke-tests
   - basic example with a counter counter component 
   - uses `useState` hook
-- [ ] bootstrap 
+- [x] bootstrap 
   - [x] react-bootstrap 
     - very tedious to use all the components
     - noticed that Navbar.Brand didn't behave the way `.navbar-brand` in bootstrap behaved, with regards to text color
     - have to navigate between 2 docs: bootstrap and react-boostrap
-  - [ ] vanilla-bootstrap
+  - [x] vanilla-bootstrap
+    - need to specify a lot of classes 
+    - easy to add bootstrap
+    - bootstrap works exactly as documented
 - [ ] tailwind 
 - [ ] auth with hooks 
 - [ ] http calls 
